@@ -2,4 +2,4 @@ streamlit
 pandas
 openpyxl
 scikit-learn
-nltk  # Recommandé pour les stop words
+nltk
